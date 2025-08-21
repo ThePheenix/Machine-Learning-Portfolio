@@ -34,11 +34,11 @@ This project explores different oversampling techniques for handling class imbal
 
 | ROS | SMOTE |
 |-----|-------|
-| ![ROS](../../ros_confusion_matrix.png) | ![SMOTE](../../smote_confusion_matrix.png) |
+| ![ROS](../../images/ros_confusion_matrix.png) | ![SMOTE](../../images/smote_confusion_matrix.png) |
 
 | ADASYN | Borderline-SMOTE |
 |--------|------------------|
-| ![ADASYN](../../adasyn_confusion_matrix.png) | ![Borderline](../../borderline-smote_confusion_matrix.png) |
+| ![ADASYN](../../images/adasyn_confusion_matrix.png) | ![Borderline](../../images/borderline-smote_confusion_matrix.png) |
 
 ---
 
