@@ -34,29 +34,29 @@ This project explores different oversampling techniques for handling class imbal
 
 | ROS | SMOTE |
 |-----|-------|
-| ![ROS](ros_confusion_matrix.png) | ![SMOTE](smote_confusion_matrix.png) |
+| ![ROS](../../ros_confusion_matrix.png) | ![SMOTE](../../smote_confusion_matrix.png) |
 
 | ADASYN | Borderline-SMOTE |
 |--------|------------------|
-| ![ADASYN](adasyn_confusion_matrix.png) | ![Borderline](borderline-smote_confusion_matrix.png) |
+| ![ADASYN](../../adasyn_confusion_matrix.png) | ![Borderline](../../borderline-smote_confusion_matrix.png) |
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 Oversampling is a powerful tool for handling imbalanced data, but it introduces a **precision–recall trade-off**. In practice, the optimal method depends on business priorities:  
 - High recall is often preferred in fraud detection (better to flag too many than to miss a real fraud).  
 - Further improvements could be achieved with **threshold tuning, cost-sensitive learning, or ensemble methods**.  
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 - `notebooks/` – Jupyter Notebook with experiments and results  
 - `data/` – (link or description, if dataset is not public)  
 - `README.md` – Project summary  
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 - Try **threshold tuning** to optimize the precision-recall balance.  
 - Explore **ensemble approaches** for more robust results.  
 - Apply the workflow to other real-world imbalanced datasets.
