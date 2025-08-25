@@ -15,7 +15,23 @@ This repository showcases projects and notebooks where I apply practical ML tech
 ### 02. Feature Selection
 - Demonstrates different **feature selection methods**: Filter, Wrapper (RFE), and Embedded (Random Forest/Lasso).
 - Shows how to improve interpretability and robustness without necessarily increasing accuracy.
-- Includes visualizations of feature importances and insights for practical ML workflows.
+- **Feature Importance Visualization:**
+  
+  ![Top Features](02_feature_selection/images/feature_importances.png)
+- **Top 10 Features by Random Forest**
+
+  | Rank | Feature                | Importance Score |
+  |------|------------------------|------------------|
+  | 1    | worst area             | 0.140016         |
+  | 2    | worst concave points   | 0.129530         |
+  | 3    | worst radius           | 0.097696         |
+  | 4    | mean concave points    | 0.090885         |
+  | 5    | worst perimeter        | 0.072226         |
+  | 6    | mean perimeter         | 0.069574         |
+  | 7    | mean radius            | 0.068676         |
+  | 8    | mean concavity         | 0.057638         |
+  | 9    | mean area              | 0.049172         |
+  | 10   | worst concavity        | 0.034340         |
 
 ### 03. Imbalanced Data Handling
 - Focuses on classification with **imbalanced datasets**.
@@ -41,3 +57,10 @@ This repository showcases projects and notebooks where I apply practical ML tech
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ThePheenix/Machine-Learning-Portfolio.git
+2. Install required libraries (e.g., via pip install -r requirements.txt).
+3. Open notebooks in Jupyter or VSCode.
+4. Follow the explanations and run cells step-by-step.
+
+## 📈 Contact / Hire Me
+
+If you are interested in ML consulting, feature engineering, or data science projects, feel free to reach out via Upwork or GitHub discussions.
