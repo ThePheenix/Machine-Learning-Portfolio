@@ -5,6 +5,22 @@ This repository showcases projects and notebooks where I apply practical ML tech
 
 ---
 
+# 🌟 Featured Notebook: Feature Selection Demo
+
+Check out my **top notebook** demonstrating advanced feature selection techniques with the Breast Cancer dataset.  
+It combines **wrapper and embedded methods**, visualizations, and clear explanations – perfect for showcasing interpretability and ML best practices.
+
+[📓 Open Notebook on GitHub](02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)
+
+---
+
+**Key Highlights:**
+- Recursive Feature Elimination (RFE) and Random Forest feature importance
+- Visual interpretation of the top 10 features
+- Step-by-step explanations for reproducibility
+- Modular and clean code ready to adapt to other datasets
+
+---
 ## 📂 Project Overview
 
 ### 01. Feature Engineering
