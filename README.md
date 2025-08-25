@@ -12,8 +12,6 @@ It combines **wrapper and embedded methods**, visualizations, and clear explanat
 
 [📓 Open Notebook on GitHub](02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)
 
----
-
 **Key Highlights:**
 - Recursive Feature Elimination (RFE) and Random Forest feature importance
 - Visual interpretation of the top 10 features
