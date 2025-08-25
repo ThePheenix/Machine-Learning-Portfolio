@@ -10,7 +10,8 @@ This repository showcases projects and notebooks where I apply practical ML tech
 Check out my **top notebook** demonstrating advanced feature selection techniques with the Breast Cancer dataset.  
 It combines **wrapper and embedded methods**, visualizations, and clear explanations – perfect for showcasing interpretability and ML best practices.
 
-[📓 Open Notebook on GitHub](02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)
+[📓 View in nbviewer](https://nbviewer.org/github/ThePheenix/Machine-Learning-Portfolio/blob/main/02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)  
+[🚀 Open in Google Colab](https://colab.research.google.com/github/ThePheenix/Machine-Learning-Portfolio/blob/main/02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)
 
 **Key Highlights:**
 - Recursive Feature Elimination (RFE) and Random Forest feature importance
@@ -25,6 +26,9 @@ It combines **wrapper and embedded methods**, visualizations, and clear explanat
 - Explore techniques to improve model performance by creating and transforming features.
 - Includes scaling, encoding, interaction features, and dimensionality reduction.
 - Highlights the impact of engineered features on model accuracy.
+
+[📓 View in nbviewer](https://nbviewer.org/github/ThePheenix/Machine-Learning-Portfolio/blob/main/01_feature_engineering/notebooks/Feature_Engineering_Demo.ipynb)  
+[🚀 Open in Google Colab](https://colab.research.google.com/github/ThePheenix/Machine-Learning-Portfolio/blob/main/01_feature_engineering/notebooks/Feature_Engineering_Demo.ipynb)
 
 ### 02. Feature Selection
 - Demonstrates different **feature selection methods**: Filter, Wrapper (RFE), and Embedded (Random Forest/Lasso).
@@ -47,10 +51,16 @@ It combines **wrapper and embedded methods**, visualizations, and clear explanat
   | 9    | mean area              | 0.049172         |
   | 10   | worst concavity        | 0.034340         |
 
+[📓 View in nbviewer](https://nbviewer.org/github/ThePheenix/Machine-Learning-Portfolio/blob/main/02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)  
+[🚀 Open in Google Colab](https://colab.research.google.com/github/ThePheenix/Machine-Learning-Portfolio/blob/main/02_feature_selection/notebooks/Wisconsin_Breast_Cancer/Feature_Selection_Demonstration_with_the_Breast_Cancer_Dataset.ipynb)
+
 ### 03. Imbalanced Data Handling
 - Focuses on classification with **imbalanced datasets**.
 - Demonstrates resampling techniques (SMOTE, Random Oversampling/Undersampling), threshold tuning, and evaluation metrics beyond accuracy (F1-score, ROC-AUC).
 - Provides a step-by-step guide to building robust classifiers in real-world scenarios.
+
+[📓 View in nbviewer](https://nbviewer.org/github/ThePheenix/Machine-Learning-Portfolio/blob/main/03_imbalanced_data/notebooks/CC_Fraud/Portfolio_Imbalanced_Data_CC_Fraud.ipynb)  
+[🚀 Open in Google Colab](https://colab.research.google.com/github/ThePheenix/Machine-Learning-Portfolio/blob/main/03_imbalanced_data/notebooks/CC_Fraud/Portfolio_Imbalanced_Data_CC_Fraud.ipynb)
 
 ---
 
@@ -71,6 +81,7 @@ It combines **wrapper and embedded methods**, visualizations, and clear explanat
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ThePheenix/Machine-Learning-Portfolio.git
+   ```
 2. Install required libraries (e.g., via pip install -r requirements.txt).
 3. Open notebooks in Jupyter or VSCode.
 4. Follow the explanations and run cells step-by-step.
